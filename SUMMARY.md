@@ -4,6 +4,7 @@
 
 ## Software
 
+* [Worklist Monitor](software/worklist-monitor.md)
 * [Quantitative Image Analysis Software (QIAS)](software/quantitative-image-analysis-software-qias/README.md)
   * [Brain Atrophy](software/quantitative-image-analysis-software-qias/brain-atrophy/README.md)
     * [Usage](software/quantitative-image-analysis-software-qias/brain-atrophy/usage.md)
