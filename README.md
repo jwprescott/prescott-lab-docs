@@ -1,6 +1,8 @@
-# Prescott Lab
+# Introduction
 
 Welcome to the Prescott Lab documentation.
+
+This site contains documentation for tools and projects developed by the Prescott Lab.
 
 ## Projects
 
