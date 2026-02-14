@@ -1,0 +1,44 @@
+{
+  "series": [
+    {
+      "id": "7d7a460d1a",
+      "label": "ID_7d7a460d1a",
+      "imageBasePath": "./assets/ID_7d7a460d1a",
+      "images": [
+        "000_img000_pred-any_p0.995_s0.00004_ID_55e2b93cc.png",
+        "001_img001_pred-any_p0.995_s0.00004_ID_9c7897a93.png",
+        "002_img002_pred-any_p0.995_s0.00002_ID_1ad3a5325.png",
+        "003_img003_pred-any_p0.995_s0.00002_ID_74b0619c0.png",
+        "004_img004_pred-any_p0.995_s0.00003_ID_1c7618400.png",
+        "005_img005_pred-any_p0.995_s0.00004_ID_8a2f322be.png",
+        "006_img006_pred-any_p0.995_s0.00179_ID_28334d5c4.png",
+        "007_img007_pred-any_p0.995_s0.00074_ID_5d403555e.png",
+        "008_img008_pred-any_p0.995_s0.00007_ID_b4d07ca1c.png",
+        "009_img009_pred-any_p0.995_s0.00004_ID_1ead1198c.png",
+        "010_img010_pred-any_p0.995_s0.00001_ID_a521ee6be.png",
+        "011_img011_pred-any_p0.995_s0.00001_ID_e5c9bb271.png",
+        "012_img012_pred-any_p0.995_s0.00008_ID_f6284db6e.png",
+        "013_img013_pred-any_p0.995_s0.00186_ID_090e5f74a.png",
+        "014_img014_pred-any_p0.995_s0.00008_ID_c069190f9.png",
+        "015_img015_pred-any_p0.995_s0.00005_ID_a77f8211a.png",
+        "016_img016_pred-any_p0.995_s0.00002_ID_3afe2ecf4.png",
+        "017_img017_pred-any_p0.995_s0.00003_ID_03938e236.png",
+        "018_img018_pred-any_p0.995_s0.00002_ID_8e5407dbf.png",
+        "019_img019_pred-any_p0.995_s0.00008_ID_a2bb9b9c6.png",
+        "020_img020_pred-any_p0.995_s0.00003_ID_059b5b58f.png",
+        "021_img021_pred-any_p0.995_s0.00005_ID_ba041a3f6.png",
+        "022_img022_pred-any_p0.995_s0.00098_ID_bd728d0cd.png",
+        "023_img023_pred-any_p0.995_s0.00021_ID_a402b9de1.png",
+        "024_img024_pred-any_p0.995_s0.00012_ID_8b91294ad.png",
+        "025_img025_pred-any_p0.995_s0.00005_ID_0931e6d5a.png",
+        "026_img026_pred-any_p0.995_s0.00008_ID_1ec1f4965.png",
+        "027_img027_pred-any_p0.995_s0.00006_ID_ca1eccd34.png",
+        "028_img028_pred-any_p0.995_s0.00003_ID_4cb7f4590.png",
+        "029_img029_pred-any_p0.995_s0.00001_ID_4566ed037.png",
+        "030_img030_pred-any_p0.995_s0.00001_ID_27c8b1851.png",
+        "031_img031_pred-any_p0.995_s0.00001_ID_9c2d41da5.png",
+        "032_img032_pred-any_p0.995_s0.00002_ID_e2f3d6b6b.png"
+      ]
+    }
+  ]
+}
