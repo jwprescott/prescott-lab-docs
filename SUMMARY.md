@@ -10,7 +10,7 @@
     * [Analysis Methods](software/quantitative-image-analysis-software-qias/brain-atrophy/analysis-methods.md)
   * [Inflated Brain](software/quantitative-image-analysis-software-qias/inflated-brain.md)
 * [Worklist Monitor](software/worklist-monitor.md)
-* [CT Stack Viewer](software/ct-stack-viewer.md)
+* [Automated Hemorrhage Detection on Head CT](software/automated-hemorrhage-detection-on-head-ct.md)
 
 ## OTHER
 
