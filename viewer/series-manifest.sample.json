@@ -1,0 +1,22 @@
+{
+  "series": [
+    {
+      "id": "7d7a460d1a",
+      "label": "Series ID 7d7a460d1a",
+      "description": "Combined panel image per slice (CT, saliency overlay, prediction chart).",
+      "slices": 24,
+      "startIndex": 0,
+      "imagePattern": "./assets/7d7a460d1a/combined/slice_{indexPadded}.webp"
+    },
+    {
+      "id": "1e22b2b1b",
+      "label": "Series ID 1e22b2b1b",
+      "description": "Example using explicit filenames with embedded prediction metadata.",
+      "imageBasePath": "./assets/1e22b2b1b/combined",
+      "images": [
+        "000_img000_pred-any_p0.021_s0.00001_ID_254787153.png",
+        "001_img001_pred-any_p0.021_s0.00001_ID_1e22b2b1b.png"
+      ]
+    }
+  ]
+}

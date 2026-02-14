@@ -1,0 +1,16 @@
+{
+  "series_id": "ID_7540f20589",
+  "num_slices_exported": 28,
+  "cropped_to_max_slices": false,
+  "predicted_class_index": 3,
+  "predicted_class_name": "intraventricular",
+  "target_class_index": 3,
+  "probabilities": {
+    "any": 0.9652242064476013,
+    "epidural": 0.004104220774024725,
+    "intraparenchymal": 0.11636809259653091,
+    "intraventricular": 0.9756439328193665,
+    "subarachnoid": 0.35871636867523193,
+    "subdural": 0.09341978281736374
+  }
+}

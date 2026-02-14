@@ -1,0 +1,16 @@
+{
+  "series_id": "ID_bd7ce3dffb",
+  "num_slices_exported": 32,
+  "cropped_to_max_slices": false,
+  "predicted_class_index": 4,
+  "predicted_class_name": "subarachnoid",
+  "target_class_index": 4,
+  "probabilities": {
+    "any": 0.9900742173194885,
+    "epidural": 0.02609189786016941,
+    "intraparenchymal": 0.7378003597259521,
+    "intraventricular": 0.6710842251777649,
+    "subarachnoid": 0.9938608407974243,
+    "subdural": 0.9743381142616272
+  }
+}
