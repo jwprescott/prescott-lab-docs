@@ -27,6 +27,18 @@
     </header>
 
     <main class="page">
+      <section class="card intro">
+        <h2>How To Read This Viewer</h2>
+        <p>
+          Each slice image combines three panels: CT head, saliency overlay, and class probability bars.
+          In the saliency map, warmer colors (yellow/red) indicate regions the model relied on more strongly,
+          while cooler colors (blue/dark) indicate weaker contribution. In the bar chart, each bar is the
+          predicted probability for one class. In general, a class probability greater than <strong>0.5</strong>
+          suggests the finding is present, and the <strong>red bar marks the highest predicted value</strong>.
+          Depending on file size and connection speed, slice images may take a few seconds to load.
+        </p>
+      </section>
+
       <section class="controls card">
         <div class="control-row">
           <label for="series-select">Series</label>
